@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StudentAPICQRS.Data\StudentAPICQRS.Data.csproj" />
+    <ProjectReference Include="..\StudentAPICQRS.Domain\StudentAPICQRS.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

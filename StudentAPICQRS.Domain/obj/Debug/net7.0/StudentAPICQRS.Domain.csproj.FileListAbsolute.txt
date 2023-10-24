@@ -1,0 +1,11 @@
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\bin\Debug\net7.0\StudentAPICQRS.Domain.deps.json
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\bin\Debug\net7.0\StudentAPICQRS.Domain.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\bin\Debug\net7.0\StudentAPICQRS.Domain.pdb
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.AssemblyInfoInputs.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.AssemblyInfo.cs
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\refint\StudentAPICQRS.Domain.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\StudentAPICQRS.Domain.pdb
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Domain\obj\Debug\net7.0\ref\StudentAPICQRS.Domain.dll

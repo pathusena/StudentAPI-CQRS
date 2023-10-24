@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x02e6LaecXQcvcGfQfsMtDG9jyhIZqB34E28NkvlZ6Ztf7DxQZX/X360bWZLkMtyF8BtFg4sed58+D1E+BfoWQ==",
+  "dgSpecHash": "Q8I1VRmyM0WIddBoMgUxekY5E488ejy3QkzhD2S6nkqw7ctjb9syXPO4L43QAf7JncsgZUZ7SNYAk+gZRtI+Dg==",
   "success": true,
-  "projectFilePath": "C:\\Interview Projects\\StudentAPICQRS\\StudentAPICQRS.Domain\\StudentAPICQRS.Domain.csproj",
+  "projectFilePath": "C:\\Sample Projects\\StudentAPI-CQRS\\StudentAPICQRS.Domain\\StudentAPICQRS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

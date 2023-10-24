@@ -1,0 +1,17 @@
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Data.deps.json
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Data.runtimeconfig.json
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Data.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Data.pdb
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Domain.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\bin\Debug\net7.0\StudentAPICQRS.Domain.pdb
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.csproj.AssemblyReference.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.AssemblyInfoInputs.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.AssemblyInfo.cs
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.csproj.CoreCompileInputs.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.csproj.CopyComplete
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\refint\StudentAPICQRS.Data.dll
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.pdb
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\StudentAPICQRS.Data.genruntimeconfig.cache
+C:\Sample Projects\StudentAPI-CQRS\StudentAPICQRS.Data\obj\Debug\net7.0\ref\StudentAPICQRS.Data.dll
